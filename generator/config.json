@@ -1,0 +1,30 @@
+{
+  "nama": "Alif Firdiansyah",
+  "tempat_lahir": "Surabaya",
+  "tgl_lahir": "26 Oktober 2001",
+  "alamat": "Tambak Langon GG. 1 No. 17",
+  "ktp": "3515132610010001",
+  "agama": "Islam",
+  "telp": "087786705516",
+  "kota": "Surabaya",
+  "kepada": "Kepala Badan Pendapatan Daerah Kota Surabaya (BAPENDA)",
+  "instansi": "Badan Pendapatan Daerah Kota Surabaya (BAPENDA)",
+  "jabatan": "tenaga Surveyor",
+  "lampiran": [
+    "Daftar Riwayat Hidup",
+    "Fotocopy KTP",
+    "Pas Foto 4 x 6",
+    "Fotocopy Ijazah Terakhir",
+    "Fotocopy Transkrip Nilai",
+    "Fotocopy NPWP"
+  ],
+  "tupoksi": "Pengembangan Web Reklame Reborn",
+  "target_harian": 1,
+  "hari_libur": [],
+  "cuti_bersama": [],
+  "foto_dir": "foto",
+  "ttd": "ttd.png",
+  "output_dir": "output",
+  "jumlah_foto": 27,
+  "nama_file": "ALIF FIRDIANSYAH"
+}
